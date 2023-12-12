@@ -2,9 +2,9 @@
 
 namespace Alanx15a2\FirstPackage;
 
+use Alanx15a2\FirstPackage\Commands\FirstPackageCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Alanx15a2\FirstPackage\Commands\FirstPackageCommand;
 
 class FirstPackageServiceProvider extends PackageServiceProvider
 {

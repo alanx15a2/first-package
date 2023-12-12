@@ -2,9 +2,9 @@
 
 namespace Alanx15a2\FirstPackage\Tests;
 
+use Alanx15a2\FirstPackage\FirstPackageServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Alanx15a2\FirstPackage\FirstPackageServiceProvider;
 
 class TestCase extends Orchestra
 {
